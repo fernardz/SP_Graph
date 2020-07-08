@@ -18,11 +18,11 @@ With just that information we can then generate an Oauth2 Authorization token an
 ### Postman
 Using Postman is pretty straight forward. We just need to set the authorization to use the Oauth2 protocol.
 
-![Authorization](postman_1.png)
+![Authorization](https://github.com/frodrig3ND/SP_Graph/blob/master/postman_1.PNG?raw=True)
 
 Then we can generate the first token, {tenant} will be specific to your organizations as will your Client ID and Client Secret.
 
-![Token](postman_2.png)
+![Token](https://github.com/frodrig3ND/SP_Graph/blob/master/postman_2.PNG?raw=True)
 
 Now we can select our specific token and make calls to microsoft graph form the API.
 
